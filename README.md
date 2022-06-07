@@ -12,3 +12,5 @@ This work is licensed under a
 
 This is the repository for projects in the "Risk and Resiliency to Space Weather Disruption" for the 3rd Jack Eddy Symposium. It is a place for scripts, issues, discussions, resources related to those projects
 
+[Running notes](https://docs.google.com/document/d/1gHs5eVqxzXhUROhhAw-8gJ3vuUgOhxBq02GOycHwiaM/edit?usp=sharing)
+
