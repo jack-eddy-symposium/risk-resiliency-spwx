@@ -1,0 +1,10 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10384,09/11/2015 03:00:00,09/11/2015 18:00:00,6-Data Quality (narrative required),Unknown issue
+10385,09/11/2015 03:00:00,09/11/2015 18:00:00,6-Data Quality (narrative required),Additional phenomena contributing to increased neutral current.
+10388,09/11/2015 03:00:00,09/11/2015 18:00:00,6-Data Quality (narrative required),Unknown issue
+10291,09/11/2015 03:00:00,09/11/2015 18:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
+10292,09/11/2015 03:00:00,09/11/2015 18:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
+10293,09/11/2015 03:00:00,09/11/2015 18:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
+10294,09/11/2015 03:00:00,09/11/2015 18:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
+10295,09/11/2015 03:00:00,09/11/2015 18:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
+10296,09/11/2015 03:00:00,09/11/2015 18:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
