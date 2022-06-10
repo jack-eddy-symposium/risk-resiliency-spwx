@@ -1,9 +1,0 @@
-Device ID, Start Date Time, End Date Time, Reason, Narrative
-10382,06/22/2015 14:07:38,06/23/2015 15:00:00,6-Data Quality (narrative required),Unknown issue
-10384,06/22/2015 03:00:00,06/23/2015 15:00:00,6-Data Quality (narrative required),Unknown issue
-10291,06/22/2015 03:00:00,06/23/2015 15:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
-10292,06/22/2015 03:00:00,06/23/2015 15:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
-10293,06/22/2015 03:00:00,06/23/2015 15:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
-10294,06/22/2015 03:00:00,06/23/2015 15:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
-10295,06/22/2015 03:00:00,06/23/2015 15:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
-10296,06/22/2015 03:00:00,06/23/2015 15:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
