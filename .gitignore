@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 #General
 .DS_Store
 .ipynb_checkpoints
 
 
+=======
+
+
+# General
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+
+>>>>>>> 1f4f69f (created capability to save integrated datafiles for any given event)
