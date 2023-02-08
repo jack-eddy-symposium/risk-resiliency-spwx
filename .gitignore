@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+#General
+.DS_Store
+.ipynb_checkpoints
+
+
+=======
+>>>>>>> origin/main
 
 
 # General
@@ -8,3 +18,7 @@
 
 
 
+<<<<<<< HEAD
+=======
+>>>>>>> 1f4f69f (created capability to save integrated datafiles for any given event)
+>>>>>>> origin/main
