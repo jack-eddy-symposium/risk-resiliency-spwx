@@ -1,0 +1,28 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10239,09/07/2017 21:43:20,09/07/2017 21:53:19,3-Data Recording Device Malfunction,
+10239,09/08/2017 04:13:54,09/08/2017 04:23:53,3-Data Recording Device Malfunction,
+10239,09/08/2017 05:13:59,09/08/2017 05:23:58,3-Data Recording Device Malfunction,
+10239,09/08/2017 05:24:00,09/08/2017 05:33:59,3-Data Recording Device Malfunction,
+10239,09/08/2017 05:34:01,09/08/2017 05:44:00,3-Data Recording Device Malfunction,
+10239,09/08/2017 07:24:11,09/08/2017 07:34:10,3-Data Recording Device Malfunction,
+10239,09/08/2017 07:34:12,09/08/2017 07:44:11,3-Data Recording Device Malfunction,
+10239,09/08/2017 08:14:15,09/08/2017 08:24:14,3-Data Recording Device Malfunction,
+10239,09/08/2017 09:14:20,09/08/2017 09:24:19,3-Data Recording Device Malfunction,
+10239,09/08/2017 09:24:21,09/08/2017 09:34:20,3-Data Recording Device Malfunction,
+10239,09/08/2017 19:45:16,09/08/2017 19:55:15,3-Data Recording Device Malfunction,
+10239,09/08/2017 20:05:18,09/08/2017 20:15:17,3-Data Recording Device Malfunction,
+10239,09/08/2017 23:05:34,09/08/2017 23:15:33,3-Data Recording Device Malfunction,
+10239,09/09/2017 00:05:39,09/09/2017 00:15:38,3-Data Recording Device Malfunction,
+10239,09/09/2017 00:25:41,09/09/2017 00:35:40,3-Data Recording Device Malfunction,
+10239,09/09/2017 00:45:42,09/09/2017 00:55:41,3-Data Recording Device Malfunction,
+10239,09/09/2017 00:55:43,09/09/2017 01:05:42,3-Data Recording Device Malfunction,
+10239,09/09/2017 01:15:45,09/09/2017 01:25:44,3-Data Recording Device Malfunction,
+10379,09/07/2017 21:00:00,09/09/2017 03:00:00,6-Data Quality (narrative required),Unknown issue
+10385,09/07/2017 21:00:00,09/09/2017 03:00:00,6-Data Quality (narrative required),Additional phenomena contributing to increased neutral current.
+10084,09/07/2017 21:00:00,09/08/2017 14:41:40,1-GIC Monitor Malfunction,
+10291,09/07/2017 21:00:00,09/09/2017 03:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
+10292,09/07/2017 21:00:00,09/09/2017 03:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
+10293,09/07/2017 21:00:00,09/09/2017 03:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
+10294,09/07/2017 21:00:00,09/09/2017 03:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
+10295,09/07/2017 21:00:00,09/09/2017 03:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp
+10296,09/07/2017 21:00:00,09/09/2017 03:00:00,6-Data Quality (narrative required),Data compression for our historian causes a reduction of stored datapoints which in some cases makes a pulse look like a ramp

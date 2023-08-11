@@ -1,0 +1,6 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10181,02/26/2023 12:00:00,02/28/2023 23:59:00,6-Data Quality (narrative required),Unit fixed in March 2023  local memory filled up early in February 2023. 
+10218,02/27/2023 20:24:51,02/28/2023 23:59:00,5-Other (narrative required),Node was powered off as part of a transformer replacement project.  
+10459,02/27/2023 05:02:00,02/27/2023 05:03:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10589,02/27/2023 05:02:00,02/27/2023 05:03:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10385,02/26/2023 12:00:00,02/28/2023 23:59:00,6-Data Quality (narrative required),Additional phenomena contributing to increased neutral current.

@@ -1,0 +1,5 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10192,03/23/2023 00:00:00,03/24/2023 23:59:00,6-Data Quality (narrative required),Data is corrupted. At that location  the DC offset shifts sometimes.
+10460,03/23/2023 13:51:00,03/23/2023 13:52:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10531,03/24/2023 15:32:00,03/24/2023 15:33:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10385,03/23/2023 00:00:00,03/24/2023 23:59:00,6-Data Quality (narrative required),Additional phenomena contributing to increased neutral current.
