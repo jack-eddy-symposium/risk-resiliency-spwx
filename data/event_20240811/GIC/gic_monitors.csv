@@ -1,0 +1,22 @@
+Device ID, Latitude, Longitude, Installation Type, Connection, Minimum Value in Measurement Range
+10094,41.9000000000,72.5000000000,1 - Separate,2 - Common neutral of three (3) single-phase transformers,0.0200000000
+10095,41.7000000000,72.2000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000
+10096,41.8000000000,72.6000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000
+10097,41.4000000000,72.1000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.0200000000
+10098,41.4000000000,72.1000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.2000000000
+10099,41.4000000000,73.4000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000
+10100,41.6000000000,72.9000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000
+10102,42.9000000000,71.3000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000
+10425,36.8000000000,78.7000000000,1 - Separate,2 - Common neutral of three (3) single-phase transformers,0.0100000000
+10426,38.1000000000,78.8000000000,1 - Separate,2 - Common neutral of three (3) single-phase transformers,0.0100000000
+10427,39.0000000000,77.5000000000,1 - Separate,2 - Common neutral of three (3) single-phase transformers,0.0100000000
+10428,36.7000000000,76.5000000000,1 - Separate,2 - Common neutral of three (3) single-phase transformers,0.0100000000
+10429,36.7000000000,76.3000000000,1 - Separate,2 - Common neutral of three (3) single-phase transformers,0.0100000000
+10438,43.2000000000,75.2000000000,1 - Separate,2 - Common neutral of three (3) single-phase transformers,0.1000000000
+10445,41.1000000000,74.2000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000
+10584,40.0000000000,104.0000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000
+10637,40.1000000000,104.8000000000,2 - Combined,1 - Common neutral of a 3-phase transformer,0.1000000000
+10674,41.7000000000,72.6000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000
+10248,32.8000000000,80.6000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000
+10249,33.3000000000,81.0000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000
+10250,34.1000000000,80.9000000000,1 - Separate,1 - Common neutral of a 3-phase transformer,0.1000000000

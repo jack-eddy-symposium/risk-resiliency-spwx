@@ -1,0 +1,17 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10427,03/23/2024 00:00:00,03/25/2024 23:59:00,5-Other (narrative required),Device was powered down because host transformer was out of service for maintenance
+10107,03/25/2024 21:55:48,03/25/2024 23:59:00,1-GIC Monitor Malfunction,GIC communications down pending upgrade
+10192,03/23/2024 00:00:00,03/23/2024 11:59:59,1-GIC Monitor Malfunction,
+10192,03/25/2024 12:00:00,03/25/2024 23:59:00,1-GIC Monitor Malfunction,
+10647,03/24/2024 12:21:00,03/25/2024 23:59:00,1-GIC Monitor Malfunction,
+10504,03/25/2024 11:55:00,03/25/2024 12:54:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10516,03/24/2024 01:52:00,03/24/2024 02:51:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10517,03/25/2024 05:34:00,03/25/2024 05:34:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10545,03/25/2024 13:19:00,03/25/2024 13:19:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10554,03/24/2024 09:27:00,03/24/2024 09:30:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10572,03/25/2024 16:01:00,03/25/2024 17:00:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10573,03/25/2024 16:01:00,03/25/2024 16:59:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10574,03/25/2024 20:48:00,03/25/2024 21:47:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10581,03/25/2024 05:33:00,03/25/2024 12:36:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10385,03/23/2024 00:00:00,03/25/2024 23:59:00,6-Data Quality (narrative required),Additional phenomena contributing to increased neutral current.
+

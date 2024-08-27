@@ -1,0 +1,16 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10478,12/02/2023 00:04:00,12/02/2023 01:03:00,3-Data Recording Device Malfunction,Data Collection Issue
+10483,12/01/2023 15:29:00,12/02/2023 23:59:00,3-Data Recording Device Malfunction,Data Collection Issue
+10484,12/01/2023 15:29:00,12/02/2023 23:59:00,3-Data Recording Device Malfunction,Data Collection Issue
+10485,12/01/2023 15:29:00,12/02/2023 23:59:00,3-Data Recording Device Malfunction,Data Collection Issue
+10493,12/01/2023 01:17:00,12/01/2023 02:19:00,3-Data Recording Device Malfunction,Data Collection Issue
+10494,12/01/2023 01:03:00,12/01/2023 02:02:00,3-Data Recording Device Malfunction,Data Collection Issue
+10495,12/01/2023 01:05:00,12/01/2023 02:05:00,3-Data Recording Device Malfunction,Data Collection Issue
+10516,12/01/2023 00:43:00,12/01/2023 01:42:00,3-Data Recording Device Malfunction,Data Collection Issue
+10516,12/02/2023 12:03:00,12/02/2023 13:02:00,3-Data Recording Device Malfunction,Data Collection Issue
+10516,12/02/2023 22:28:00,12/02/2023 23:27:00,3-Data Recording Device Malfunction,Data Collection Issue
+10545,12/02/2023 22:14:00,12/02/2023 22:14:59,3-Data Recording Device Malfunction,Data Collection Issue
+10546,12/02/2023 22:20:00,12/02/2023 23:18:00,3-Data Recording Device Malfunction,Data Collection Issue
+10547,12/02/2023 22:17:00,12/02/2023 22:17:59,3-Data Recording Device Malfunction,Data Collection Issue
+10385,12/01/2023 00:00:00,12/02/2023 23:59:00,6-Data Quality (narrative required),Additional phenomena contributing to increased neutral current.
+

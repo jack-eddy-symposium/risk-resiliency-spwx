@@ -1,0 +1,7 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10477,05/10/2024 03:11:00,05/10/2024 03:14:00,3-Data Recording Device Malfunction,Data collection issue
+10702,05/10/2024 20:34:00,05/10/2024 21:33:00,3-Data Recording Device Malfunction,Data collection issue
+10381,05/10/2024 00:00:00,05/11/2024 10:40:00,6-Data Quality (narrative required),Unit Offline
+
+10385,05/10/2024 00:00:00,05/12/2024 23:59:00,6-Data Quality (narrative required),Additional phenomena contributing to increased neutral current.
+

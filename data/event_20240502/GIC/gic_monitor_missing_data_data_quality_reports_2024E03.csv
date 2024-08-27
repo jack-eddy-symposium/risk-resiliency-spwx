@@ -1,0 +1,5 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10611,05/02/2024 00:00:00,05/02/2024 16:04:59,5-Other (narrative required),GIC data is unavailable during this time.  The applicable transformer was out of service during a generator outage at the time of the event.
+10611,05/02/2024 17:33:01,05/02/2024 23:59:00,5-Other (narrative required),GIC data is unavailable during this time.  The applicable transformer was out of service during a generator outage at the time of the event.
+10385,05/02/2024 00:00:00,05/02/2024 23:59:00,6-Data Quality (narrative required),Additional phenomena contributing to increased neutral current.
+
