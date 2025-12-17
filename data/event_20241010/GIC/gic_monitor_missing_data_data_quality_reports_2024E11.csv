@@ -1,0 +1,46 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10212,10/10/2024 00:00:00,10/10/2024 00:17:14,5-Other (narrative required),Node was powered off.
+10421,10/10/2024 00:00:00,10/11/2024 11:59:59,5-Other (narrative required),Device offline due to outage.
+10475,10/10/2024 11:44:00,10/10/2024 12:44:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10485,10/11/2024 12:51:00,10/11/2024 13:50:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10485,10/11/2024 21:01:00,10/11/2024 21:59:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10493,10/10/2024 14:54:00,10/10/2024 15:53:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10494,10/10/2024 14:54:00,10/10/2024 15:54:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10495,10/10/2024 14:54:00,10/10/2024 15:53:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10503,10/10/2024 08:16:00,10/10/2024 09:15:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10506,10/10/2024 01:14:00,10/10/2024 01:14:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10516,10/11/2024 21:01:00,10/11/2024 22:00:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10542,10/10/2024 13:50:00,10/10/2024 14:50:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10542,10/11/2024 21:28:00,10/11/2024 22:27:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10543,10/11/2024 02:11:00,10/11/2024 03:10:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10557,10/10/2024 02:33:00,10/10/2024 03:32:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10557,10/10/2024 20:51:00,10/10/2024 21:50:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10557,10/10/2024 22:20:00,10/10/2024 23:19:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10572,10/10/2024 12:37:00,10/10/2024 13:37:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10572,10/11/2024 11:56:00,10/11/2024 12:55:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10573,10/10/2024 12:38:00,10/10/2024 13:37:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10573,10/11/2024 12:03:00,10/11/2024 13:03:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10574,10/10/2024 12:37:00,10/10/2024 13:36:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10576,10/11/2024 21:00:00,10/11/2024 21:00:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10644,10/11/2024 21:01:00,10/11/2024 21:01:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10612,10/10/2024 00:00:00,10/11/2024 23:59:00,5-Other (narrative required),The data resolution as stipulated(10s or less)  was not met by the recording device.
+10064,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10065,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10066,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10067,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10068,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10069,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10071,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10072,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10073,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10074,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10075,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10076,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10077,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10078,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10079,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10080,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10082,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10083,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10084,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,
+10085,10/11/2024 14:26:00,10/11/2024 14:26:10,3-Data Recording Device Malfunction,

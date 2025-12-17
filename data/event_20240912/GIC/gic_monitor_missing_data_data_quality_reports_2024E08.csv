@@ -1,0 +1,15 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10463,09/12/2024 04:15:00,09/12/2024 05:14:00,3-Data Recording Device Malfunction,Data Collection Issue
+10473,09/12/2024 01:39:00,09/12/2024 02:38:00,3-Data Recording Device Malfunction,Data Collection Issue
+10517,09/12/2024 20:46:00,09/12/2024 20:46:59,3-Data Recording Device Malfunction,Data Collection Issue
+10528,09/12/2024 12:57:00,09/12/2024 14:57:00,3-Data Recording Device Malfunction,Data Collection Issue
+10528,09/12/2024 15:00:00,09/12/2024 15:59:00,3-Data Recording Device Malfunction,Data Collection Issue
+10528,09/12/2024 20:31:00,09/12/2024 20:31:59,3-Data Recording Device Malfunction,Data Collection Issue
+10529,09/12/2024 15:09:00,09/12/2024 15:10:00,3-Data Recording Device Malfunction,Data Collection Issue
+10557,09/12/2024 02:38:00,09/12/2024 03:38:00,3-Data Recording Device Malfunction,Data Collection Issue
+10557,09/12/2024 05:18:00,09/12/2024 06:17:00,3-Data Recording Device Malfunction,Data Collection Issue
+10557,09/12/2024 11:43:00,09/12/2024 11:43:59,3-Data Recording Device Malfunction,Data Collection Issue
+10557,09/12/2024 11:47:00,09/12/2024 12:46:00,3-Data Recording Device Malfunction,Data Collection Issue
+10572,09/12/2024 20:05:00,09/12/2024 21:04:00,3-Data Recording Device Malfunction,Data Collection Issue
+10612,09/12/2024 00:00:00,09/12/2024 23:59:00,5-Other (narrative required),The data resolution as stipulated(10s or less)  was not met by the recording device.
+10592,09/12/2024 01:33:50,09/12/2024 01:34:10,1-GIC Monitor Malfunction,

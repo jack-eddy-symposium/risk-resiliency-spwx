@@ -1,0 +1,27 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10623,09/16/2024 00:00:00,09/17/2024 00:00:00,5-Other (narrative required),Data was within the deadband so few changes were reported.  We are reviewing the scaling and deadbands to determine if a changed can be made to allow for faster reporting during low level GIC events.
+10461,09/17/2024 15:40:00,09/17/2024 16:40:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10492,09/17/2024 00:44:00,09/17/2024 00:44:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10492,09/17/2024 11:38:00,09/17/2024 11:38:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10499,09/17/2024 19:50:00,09/17/2024 20:49:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10506,09/16/2024 14:37:00,09/16/2024 14:37:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10509,09/17/2024 04:52:00,09/17/2024 05:51:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10516,09/17/2024 04:13:00,09/17/2024 05:12:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10516,09/17/2024 11:16:00,09/17/2024 11:37:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10517,09/16/2024 15:55:00,09/16/2024 15:55:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10517,09/17/2024 11:38:00,09/17/2024 11:38:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10521,09/17/2024 15:06:00,09/17/2024 15:06:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10521,09/17/2024 15:40:00,09/17/2024 16:40:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10522,09/17/2024 14:52:00,09/17/2024 15:52:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10522,09/17/2024 15:54:00,09/17/2024 16:53:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10531,09/17/2024 15:41:00,09/17/2024 16:41:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10532,09/17/2024 15:45:00,09/17/2024 17:44:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10543,09/17/2024 11:38:00,09/17/2024 11:38:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10558,09/17/2024 14:53:00,09/17/2024 15:52:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10558,09/17/2024 15:55:00,09/17/2024 16:54:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10559,09/17/2024 14:52:00,09/17/2024 15:51:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10559,09/17/2024 15:54:00,09/17/2024 16:53:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10569,09/17/2024 11:38:00,09/17/2024 11:38:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10702,09/17/2024 08:33:00,09/17/2024 08:33:59,3-Data Recording Device Malfunction,Issue with collection of data.
+10729,09/16/2024 12:06:00,09/17/2024 23:59:00,3-Data Recording Device Malfunction,Issue with collection of data.
+10612,09/16/2024 00:00:00,09/17/2024 23:59:00,5-Other (narrative required),The data resolution as stipulated(10s or less)  was not met by the recording device.

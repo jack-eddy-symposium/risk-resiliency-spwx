@@ -1,0 +1,2 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10623,06/01/2025 00:00:00,06/03/2025 23:59:00,5-Other (narrative required),Data was within the deadband so minimal changes were reported.  Changes were made on 6/26/2025 to the deadband to so in the future there will be faster reporting during low level GIC events.

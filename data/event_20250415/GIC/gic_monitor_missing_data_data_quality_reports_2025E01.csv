@@ -1,0 +1,5 @@
+Device ID, Start Date Time, End Date Time, Reason, Narrative
+10692,04/15/2025 00:00:00,04/15/2025 00:50:05,5-Other (narrative required),The node was power cycled at the end of 4/14/2025 and came back up early on 4/15/2025.
+10207,04/15/2025 00:00:00,04/15/2025 01:44:18,5-Other (narrative required),Node power cycled on late on 4/14/2025 and did not come back online until 01:44 on 4/15/2025.
+10425,04/15/2025 00:00:00,04/17/2025 23:59:00,5-Other (narrative required),Device was powered down because host transformer was out of service for maintenance
+10623,04/15/2025 00:00:00,04/17/2025 23:59:00,5-Other (narrative required),Data was within the deadband so few changes were reported.  We are reviewing the scaling and deadbands to determine if a changed can be made to allow for faster reporting during low level GIC events.
